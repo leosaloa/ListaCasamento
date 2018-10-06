@@ -1,0 +1,44 @@
+body{
+background: #DCDCDC;
+padding-top: 45px;
+}
+
+.texto1{
+	padding: 15px 20px;
+	border: 2px solid #C0C0C0;
+	border-radius: 8px;
+	background-color: #808080;
+	display: block;
+	font-size: 18px;
+	font-family: times new roman;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+}
+.texto2{
+	display: block;
+	font-size: 16px;
+	text-align: left;
+	font-family: times new roman;
+	font-weight: bold;
+}
+
+.botaoPosicao{
+	position: fixed;
+	top: 0;
+  	width: 100%;
+  	display: flex;
+  	justify-content: center;
+}
+
+.botao{
+    padding: 15px 20px;
+    border: 1px solid #eee;
+    border-radius: 6px;
+    background-color: #FCC302;
+    font-size: 16px;
+    font-family: times new roman;
+    font-weight: bold;
+}
+
+
